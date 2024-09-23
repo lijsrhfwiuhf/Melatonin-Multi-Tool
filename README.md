@@ -1,4 +1,4 @@
-# Melatonin
+# Melatonin Multi-Tool BETA
 
 ![Melatonin](https://cdn.discordapp.com/attachments/1287033711363362836/1287770622721527900/image.png?ex=66f2c15a&is=66f16fda&hm=7d458a48aa5cade8ca9f34b20ed033fa0270b150c4d8548eb017634139f75cde)
 
