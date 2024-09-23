@@ -1,0 +1,7 @@
+this file might be out of date, for the right version join: discord.gg/YSzJeKn7Us
+
+1. if install_requirements.py doesnt work, open cmd or terminal and write:  pip install colorama
+2. after running install_requirements.py open MelatoninLauncher and run melatonin.bat
+3. enjoy!
+
+-- if theres any problems please join our discord server, if the invite doesnt work do:  guns.lol/za_made
